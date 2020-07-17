@@ -1097,8 +1097,8 @@
 // @section machine
 
 // The size of the print bed
-#define X_BED_SIZE 190//235 // lowered to 190 for the PEI/glass sheet clipped on
-#define Y_BED_SIZE 190//235
+#define X_BED_SIZE 235
+#define Y_BED_SIZE 235
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS -1 // tuned to the edge of too-small PEI/glass sheet clipped on (190x190)
